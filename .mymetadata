@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
+<<<<<<< HEAD
   name="bbb2"
   id="myeclipse.1599214139980"
   context-root="/bbb2"
   j2ee-spec="6.0"
   archive="bbb2.war">
+=======
+  name="aaa"
+  id="myeclipse.1599214053991"
+  context-root="/aaa"
+  j2ee-spec="6.0"
+  archive="aaa.war">
+>>>>>>> 4dd078a9042864b5238c5d748b0298b028a69f09
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>

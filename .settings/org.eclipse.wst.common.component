@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="bbb2">
         <wb-resource deploy-path="/" source-path="/WebRoot"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="/bbb2"/>
         <property name="java-output-path" value="/bbb2/WebRoot/WEB-INF/classes"/>
+=======
+    <wb-module deploy-name="aaa">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/aaa"/>
+        <property name="java-output-path" value="/aaa/WebRoot/WEB-INF/classes"/>
+>>>>>>> 4dd078a9042864b5238c5d748b0298b028a69f09
     </wb-module>
 </project-modules>
